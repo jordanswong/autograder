@@ -1,5 +1,4 @@
 # Essay Autograder
-*Name: Jordan Wong*
 
 ## Overview
 
