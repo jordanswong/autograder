@@ -37,7 +37,7 @@ the data. The python scripts are data_prep.py, data_processor.py, and knn_model.
     - Uses the processed data and splits it into features and labels to train a KNN model
     - Contains a method that uses the model to predict the grade of the inputted essay on the website
  
-## Packages Used 
+## What Was Used 
  Django, nltk, sci-kit learn, pandas, csv, html  
 
 ## Installation Instructions
