@@ -7,7 +7,7 @@ colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
-Django==3.0.6
+Django==3.1.12
 entrypoints==0.3
 ipykernel==5.2.1
 ipython==7.14.0
